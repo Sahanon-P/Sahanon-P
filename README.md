@@ -8,15 +8,20 @@
 > -- <cite>Some guys on the internet</cite>
 
 # :dizzy: About Me:
-🔭I'm currently working my senior project (will be available in public soon)
+🔭 I'm currently working my senior project (will be available in public soon)
 
-👯I'm looking to collaborate on web & mobile development
+👯 I'm looking to collaborate on web & mobile development
 
-🤔I'm looking for help with business idea
+🤔 I'm looking for an interesting business idea.
 
-🌱I'm currently learning flutter and swift, cybersecurity.
+🌱 I'm currently learning flutter and swift, cybersecurity.
 
-💬Feel free to ask me about anything related to software (or else)
+💬 Feel free to ask me about anything related to software (or else)
+
+## 🌐 How to reach me:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Pst_Ping#1302) 
+
+email: sahanon.dev@gmail.com
 
 
 # :computer: Tech Stack:
