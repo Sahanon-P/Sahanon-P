@@ -8,7 +8,7 @@
 > -- <cite>Random guys on the internet</cite>
 
 # :dizzy: About Me:
-🔭 I'm currently working on my senior project (will be available in public soon) 
+🔭 I'm currently working on my senior project -> [link](https://github.com/CypherBot-Final-Project/mobile-app)
 
 👯 I'm looking to collaborate on web & mobile development
 
