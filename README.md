@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-> Programming is like a magic. You write very specific instruction in arcane languages
+> Programming is like magic. You write very specific instructions in arcane languages
 > to invoke commands, and if you get it even a little bit wrong you risk unleashing demons
 > and destroying everything.
 > 
 > -- <cite>Random guys on the internet</cite>
 
-# :dizzy: About Me:
-🔭 I'm currently working on my senior project -> [link](https://github.com/CypherBot-Final-Project/mobile-app)
+# :dizzy: About Me
+🔭 I'm currently working on an interesting project that will be delivered at the end of this year!
 
 👯 I'm looking to collaborate on web & mobile development
 
@@ -18,7 +18,7 @@
 
 💬 Feel free to ask me about anything related to software (or else)
 
-## 🌐 Social Account:
+## 🌐 Social Accounts:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Pst_Ping#1302) 
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sahanonp)
 
