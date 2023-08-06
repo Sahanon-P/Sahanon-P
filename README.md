@@ -16,7 +16,7 @@
 
 🌱 I'm currently learning flutter and swift, cybersecurity.
 
-💬 Feel free to ask me about anything related to software (or else)
+💬 Feel free to ask me anything related to software (or other)
 
 ## 🌐 Social Accounts:
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Pst_Ping#1302) 
